@@ -1,2 +1,4 @@
-# collier_elections
-Data and notebooks on voting in Collier County
+# Collier County Elections
+
+This repository houses NDN data and analyses of elections in Collier County. 
+
